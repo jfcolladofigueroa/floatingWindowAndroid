@@ -1,4 +1,4 @@
-package com.wheic.floatingedittext;
+package com.citb.floatingcontrol;
 
 import org.junit.Test;
 

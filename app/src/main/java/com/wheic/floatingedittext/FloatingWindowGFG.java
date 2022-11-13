@@ -1,4 +1,4 @@
-package com.wheic.floatingedittext;
+package com.citb.floatingcontrol;
 
 import android.app.Service;
 import android.content.Context;
@@ -24,7 +24,7 @@ import android.widget.Toast;
 
 import androidx.annotation.Nullable;
 
-import com.wheic.floatingedittext.Common.Common;
+import com.citb.floatingcontrol.Common.Common;
 
 public class FloatingWindowGFG extends Service {
 

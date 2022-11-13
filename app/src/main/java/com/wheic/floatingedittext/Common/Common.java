@@ -1,4 +1,4 @@
-package com.wheic.floatingedittext.Common;
+package com.citb.floatingcontrol.Common;
 
 public class Common {
     //The EditText String will be stored in this variable

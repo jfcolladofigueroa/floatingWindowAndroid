@@ -1,4 +1,4 @@
-package com.wheic.floatingedittext;
+package com.citb.floatingcontrol;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.wheic.floatingedittext", appContext.getPackageName());
+        assertEquals("com.citb.floatingcontrol", appContext.getPackageName());
     }
 }

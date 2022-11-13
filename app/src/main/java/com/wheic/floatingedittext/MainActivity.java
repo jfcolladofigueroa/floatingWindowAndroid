@@ -1,4 +1,4 @@
-package com.wheic.floatingedittext;
+package com.citb.floatingcontrol;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
@@ -21,7 +21,7 @@ import android.widget.ImageButton;
 import android.widget.Toast;
 
 import com.google.android.material.dialog.MaterialAlertDialogBuilder;
-import com.wheic.floatingedittext.Common.Common;
+import com.citb.floatingcontrol.Common.Common;
 
 public class MainActivity extends AppCompatActivity {
 
